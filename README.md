@@ -1,24 +1,24 @@
 # Projects-MS-Global-Inc.
 
-### MoyeenXpress
+### 1. MoyeenXpress
 #### https://moyenxpress.com/
 
-### 5 Star Real Estate
+### 2. 5 Star Real Estate
 #### https://5-stars-real-estate.thevisionbrands.com/
 
-### Atlas Artisties
+### 3. Atlas Artisties
 #### https://atlas-artiste.thevisionbrands.com/
 
-### My Own Hypnotherapy
+### 4. My Own Hypnotherapy
 #### https://globalapplicationbrands.com/recentportfolio/myownhypnotherapynew2/
 
-### IDETEP
+### 5. IDETEP
 #### https://idetep-02.thevisionbrands.com/
 
-### The Vision Brands
+### 6. The Vision Brands
 #### https://thevisionbrands.com/
 
-### Global Application Brands
+### 7. Global Application Brands
 #### https://www.globalapplicationbrands.com/
 
 ###
