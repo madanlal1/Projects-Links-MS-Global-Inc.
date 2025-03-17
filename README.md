@@ -13,7 +13,7 @@
 #### https://globalapplicationbrands.com/recentportfolio/myownhypnotherapynew2/
 
 ### 5. IDETEP
-#### https://idetep-02.thevisionbrands.com/
+#### https://idetep.org/
 
 ### 6. The Vision Brands
 #### https://thevisionbrands.com/
