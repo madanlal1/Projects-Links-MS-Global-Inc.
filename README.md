@@ -12,7 +12,7 @@
 ### Afeef Zara Packages
 #### https://afeefzarapackages.com/
 
-### Towel Manufacturing Association
+### Towel Manufacturing Association (TMA)
 #### https://cyan-elk-408227.hostingersite.com/
 
 ### Bookory Publishing
