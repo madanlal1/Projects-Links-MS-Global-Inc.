@@ -1,73 +1,51 @@
-# Projects-MS-Global-Inc.
+# Projects in Production Level
 
-### 1. MoyenXpress
+### Easy Data Structures
+#### https://easydatastructures.com/
+
+### DaroSoft
+#### https://darosoft.com/
+
+### BB Min Chem
+#### https://bbminchem.com/
+
+### Afeef Zara Packages
+#### https://afeefzarapackages.com/
+
+### Towel Manufacturing Association
+#### https://cyan-elk-408227.hostingersite.com/
+
+### Bookory Publishing
+#### https://trotsoft.com/
+
+### The Alifa
+#### https://thealifa.com/
+
+### Act Hire
+#### https://acthire.com/
+
+### Fast Motors
+#### https://fast-motors.com/
+
+### Amy Cooke
+#### https://www.amycookemovement.com/
+
+### Emerald Propertiez
+#### https://emeraldpropertiez.com/
+
+### MoyenXpress
 #### https://moyenxpress.com/
 
-### 2. 5 Star Real Estate (Password: "yourPassword")
+### 5 Star Real Estate (Password: "yourPassword")
 #### https://5-stars-real-estate.thevisionbrands.com/
 
-### 3. IDETEP
+### IDETEP
 #### https://idetep.org/
 
-### 4. The Vision Brands
+### The Vision Brands
 #### https://thevisionbrands.com/
 
-### 5. Global Application Brands
+### Global Application Brands
 #### https://www.globalapplicationbrands.com/
 
-###
-####
 
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
-
-###
-####
