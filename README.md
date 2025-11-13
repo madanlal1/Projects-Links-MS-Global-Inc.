@@ -3,22 +3,16 @@
 ### 1. MoyenXpress
 #### https://moyenxpress.com/
 
-### 2. 5 Star Real Estate
+### 2. 5 Star Real Estate (Password: "yourPassword")
 #### https://5-stars-real-estate.thevisionbrands.com/
 
-### 3. Atlas Artisties
-#### https://atlas-artiste.thevisionbrands.com/
-
-### 4. My Own Hypnotherapy
-#### https://globalapplicationbrands.com/recentportfolio/myownhypnotherapynew2/
-
-### 5. IDETEP
+### 3. IDETEP
 #### https://idetep.org/
 
-### 6. The Vision Brands
+### 4. The Vision Brands
 #### https://thevisionbrands.com/
 
-### 7. Global Application Brands
+### 5. Global Application Brands
 #### https://www.globalapplicationbrands.com/
 
 ###
